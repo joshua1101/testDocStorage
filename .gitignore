@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/testDocStorage/CopilotIndices/17.14.1091.29919
+/.vs/testDocStorage/FileContentIndex
+/.vs/testDocStorage/v17/TestStore/0/000.testlog
+/.vs/testDocStorage/v17/TestStore/0/testlog.manifest
+/.vs/slnx.sqlite
+/.vs/testDocStorage/v17
